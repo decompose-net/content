@@ -7,8 +7,8 @@ author: Seth Vincent
 author_slug: sethvincent
 created: "03/18/2024, 5:00:00 PM"
 updated: "03/18/2024, 5:00:00 PM"
-tags: ['meta']
-section: 'technical_writing'
+tags: ['technical_writing']
+section: 'decompose'
 ---
 
 A lot of people produce technology education content these days, particularly content around software development. Too much of that content is repetitive, narrowly focused, and with short expiration dates.
